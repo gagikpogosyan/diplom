@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/diplom/static/css/main.a771f5bd.css",
+    "main.css": "/diplom/static/css/main.814fbf36.css",
     "main.js": "/diplom/static/js/main.ae39b243.js",
     "index.html": "/diplom/index.html",
-    "main.a771f5bd.css.map": "/diplom/static/css/main.a771f5bd.css.map",
+    "main.814fbf36.css.map": "/diplom/static/css/main.814fbf36.css.map",
     "main.ae39b243.js.map": "/diplom/static/js/main.ae39b243.js.map"
   },
   "entrypoints": [
-    "static/css/main.a771f5bd.css",
+    "static/css/main.814fbf36.css",
     "static/js/main.ae39b243.js"
   ]
 }
