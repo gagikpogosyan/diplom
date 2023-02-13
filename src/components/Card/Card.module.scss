@@ -9,7 +9,7 @@
   margin-bottom: 25px;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-around;
   transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
 
   .cardImg {
@@ -29,7 +29,8 @@
 
   .favourite {
     cursor: pointer;
-    margin-right: 5px;
+    margin-right: 15px;
+    padding-top: 3px;
   }
 
   span {
@@ -53,7 +54,7 @@
     height: 36px;
     font-size: 13px;
     text-transform: capitalize;
-    margin: 0;
+    margin: 0 auto;
     text-align: center;
   }
 }
@@ -68,5 +69,9 @@
   .card {
     width: 250px;
     height: 350px;
+
+    .cardImg {
+      height: 180px;
+    }
   }
 }
