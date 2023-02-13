@@ -63,3 +63,10 @@
     margin-right: 0;
   }
 }
+
+@media (max-width: 470px) {
+  .card {
+    width: 250px;
+    height: 350px;
+  }
+}
